@@ -12,7 +12,7 @@
 
 ### :man_technologist: About Me :
 
-📕 I am currently pursuing my studies in Computer Science at Singapore Management University..
+I am currently pursuing my studies in Computer Science at Singapore Management University..
   - Passion for Software Development
   - Focused on Positive Impact
   - Learning and Growth
